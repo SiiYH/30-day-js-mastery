@@ -57,7 +57,7 @@
 ## 🏆 Problem Categories & Progress
 
 ### Arrays & Strings
-- [✓] Merge Sorted Array
+- [x] Merge Sorted Array
 - [ ] Two Sum
 - [ ] Valid Anagram
 - [ ] Group Anagrams
