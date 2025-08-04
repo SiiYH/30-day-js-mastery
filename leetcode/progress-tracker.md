@@ -56,69 +56,230 @@
 
 ## 🏆 Problem Categories & Progress
 
-### Arrays & Strings
-- [x] Merge Sorted Array
-- [x] Remove Element
-- [ ] Two Sum
-- [ ] Valid Anagram
-- [ ] Group Anagrams
-- [ ] Maximum Subarray
-- [ ] Container With Most Water
+# 30-Day LeetCode Challenge Tracker
+*Top Interview 150 - 30 minutes per day*
 
-**Progress**: 0/5
+## Week 1: Arrays & Strings Foundation
 
-### Linked Lists
-- [ ] Reverse Linked List
-- [ ] Merge Two Sorted Lists
-- [ ] Remove Nth Node From End
-- [ ] Cycle Detection
+### Day 1: Array Basics (30 min)
+- [x] **Remove Element** (Easy) - 10 min
+- [x] **Merge Sorted Array** (Easy) - 15 min  
+- [ ] Quick review - 5 min
+- **Date completed**: 04 Aug 25
 
-**Progress**: 0/4
+### Day 2: More Arrays (30 min)
+- [ ] **Remove Duplicates from Sorted Array** (Easy) - 10 min
+- [ ] **Best Time to Buy and Sell Stock** (Easy) - 15 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
 
-### Trees & Graphs
-- [ ] Maximum Depth of Binary Tree
-- [ ] Same Tree
-- [ ] Binary Tree Level Order Traversal
-- [ ] Number of Islands
+### Day 3: String Basics (30 min)
+- [ ] **Valid Palindrome** (Easy) - 10 min
+- [ ] **Valid Anagram** (Easy) - 15 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
 
-**Progress**: 0/4
+### Day 4: Hash Tables (30 min)
+- [ ] **Two Sum** (Easy) - 15 min
+- [ ] **Contains Duplicate** (Easy) - 10 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
 
-### Dynamic Programming
-- [ ] Climbing Stairs
-- [ ] House Robber
-- [ ] Coin Change
-- [ ] Longest Common Subsequence
+### Day 5: Medium Challenge (30 min)
+- [ ] **Product of Array Except Self** (Medium) - 25 min
+- [ ] Quick mental review - 5 min
+- **Date completed**: ___________
 
-**Progress**: 0/4
+### Day 6: String Patterns (30 min)
+- [ ] **Longest Common Prefix** (Easy) - 10 min
+- [ ] **First Occurrence in String** (Easy) - 15 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
 
-### Sorting & Searching
-- [ ] Binary Search
-- [ ] Merge Intervals
-- [ ] Search in Rotated Sorted Array
-
-**Progress**: 0/3
-
-### Hash Tables & Sets
-- [ ] Contains Duplicate
-- [ ] Valid Parentheses
-- [ ] Longest Substring Without Repeating Characters
-
-**Progress**: 0/3
-
-### Math & Logic
-- [ ] Palindrome Number
-- [ ] Roman to Integer
-- [ ] Power of Two
-
-**Progress**: 0/3
+### Day 7: Review Day (30 min)
+- [ ] Retry hardest problem from the week - 20 min
+- [ ] Review all approaches learned - 10 min
+- **Date completed**: ___________
 
 ---
+
+## Week 2: Two Pointers & Hash Tables
+
+### Day 8: Two Pointers (30 min)
+- [ ] **Valid Palindrome** (Easy) - review - 5 min
+- [ ] **Container With Most Water** (Medium) - 20 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 9: Advanced Hash Tables (30 min)
+- [ ] **Group Anagrams** (Medium) - 25 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 10: String Manipulation (30 min)
+- [ ] **Reverse Words in a String** (Medium) - 20 min
+- [ ] **Length of Last Word** (Easy) - 5 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 11: More Two Pointers (30 min)
+- [ ] **3Sum** (Medium) - 25 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 12: Hash Table Patterns (30 min)
+- [ ] **Happy Number** (Easy) - 10 min
+- [ ] **Isomorphic Strings** (Easy) - 15 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 13: Arrays + Hash Tables (30 min)
+- [ ] **Majority Element** (Easy) - 10 min
+- [ ] **Gas Station** (Medium) - 15 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 14: Week 2 Review (30 min)
+- [ ] Pick hardest unsolved problem - 25 min
+- [ ] Quick pattern review - 5 min
+- **Date completed**: ___________
+
+---
+
+## Week 3: Linked Lists & Stacks/Queues
+
+### Day 15: Linked List Basics (30 min)
+- [ ] **Reverse Linked List** (Easy) - 15 min
+- [ ] **Merge Two Sorted Lists** (Easy) - 10 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 16: Advanced Linked Lists (30 min)
+- [ ] **Remove Nth Node From End** (Medium) - 20 min
+- [ ] **Linked List Cycle** (Easy) - 5 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 17: Stack Fundamentals (30 min)
+- [ ] **Valid Parentheses** (Easy) - 10 min
+- [ ] **Min Stack** (Medium) - 15 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 18: Stack Applications (30 min)
+- [ ] **Evaluate Reverse Polish Notation** (Medium) - 20 min
+- [ ] **Simplify Path** (Medium) - 5 min (if time)
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 19: Linked List Manipulation (30 min)
+- [ ] **Add Two Numbers** (Medium) - 20 min
+- [ ] **Remove Duplicates from Sorted List** (Easy) - 5 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 20: Queue & Deque (30 min)
+- [ ] **Sliding Window Maximum** (Hard) - 25 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 21: Week 3 Review (30 min)
+- [ ] Retry most challenging problem - 25 min
+- [ ] Pattern review - 5 min
+- **Date completed**: ___________
+
+---
+
+## Week 4: Trees & Advanced Topics
+
+### Day 22: Binary Tree Basics (30 min)
+- [ ] **Maximum Depth of Binary Tree** (Easy) - 10 min
+- [ ] **Same Tree** (Easy) - 10 min
+- [ ] **Invert Binary Tree** (Easy) - 5 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 23: Tree Traversal (30 min)
+- [ ] **Binary Tree Inorder Traversal** (Easy) - 15 min
+- [ ] **Path Sum** (Easy) - 10 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 24: Binary Search (30 min)
+- [ ] **Binary Search** (Easy) - 10 min
+- [ ] **Search Insert Position** (Easy) - 10 min
+- [ ] **Find First and Last Position** (Medium) - 5 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 25: Tree Construction (30 min)
+- [ ] **Construct Binary Tree from Preorder and Inorder** (Medium) - 25 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 26: Dynamic Programming Intro (30 min)
+- [ ] **Climbing Stairs** (Easy) - 10 min
+- [ ] **House Robber** (Medium) - 15 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 27: Graph Basics (30 min)
+- [ ] **Number of Islands** (Medium) - 20 min
+- [ ] **Clone Graph** (Medium) - 5 min (understanding)
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 28: Mixed Practice (30 min)
+- [ ] **Course Schedule** (Medium) - 25 min
+- [ ] Quick review - 5 min
+- **Date completed**: ___________
+
+### Day 29: Challenge Day (30 min)
+- [ ] Pick the hardest unsolved problem from any week - 25 min
+- [ ] Review approach - 5 min
+- **Date completed**: ___________
+
+### Day 30: Final Review (30 min)
+- [ ] Review all key patterns learned - 10 min
+- [ ] Solve one problem from each major category - 15 min
+- [ ] Plan next steps - 5 min
+- **Date completed**: ___________
+
+---
+
+## Progress Tracking
+
+**Week 1 Completed**: ⬜ (_1_/7 days)
+**Week 2 Completed**: ⬜ (___/7 days)  
+**Week 3 Completed**: ⬜ (___/7 days)
+**Week 4 Completed**: ⬜ (___/8 days)
+
+**Total Challenge Completed**: ⬜ (_1_/30 days)
+
+---
+
+## Key Patterns Mastered
+- [ ] Two Pointers
+- [ ] Hash Tables  
+- [ ] Sliding Window
+- [ ] Stack/Queue
+- [ ] Linked List Manipulation
+- [ ] Binary Tree Traversal
+- [ ] Binary Search
+- [ ] Basic Dynamic Programming
+- [ ] Graph Traversal (BFS/DFS)
+- [ ] Backtracking
+
+---
+
+## Notes & Insights
+*Use this space to jot down key learnings, patterns, or techniques that clicked for you:*
 
 ## 📈 Weekly Milestones
 
 ### Week 1: Foundation (Days 1-7)
 **Target**: 7 problems (focus on Easy level)
-- **Status**: Not Started
+- **Status**: Started
 - **Focus**: Arrays, strings, basic algorithms
 - **Goal**: Build confidence and establish daily habit
 
@@ -146,7 +307,7 @@
 
 | Difficulty | Target | Completed | Remaining |
 |------------|--------|-----------|-----------|
-| Easy ⭐    | 15     | 1         | 14        |
+| Easy ⭐    | 15     | 2         | 12        |
 | Medium ⭐⭐ | 13     | 0         | 13        |
 | Hard ⭐⭐⭐  | 2      | 0         | 2         |
 
