@@ -7,7 +7,7 @@ Master JavaScript through structured learning + algorithmic thinking + practical
 - **FreeCodeCamp:** 0/180 lessons
 - **FreeCodeCamp:** 5/17 small part in one certificate project
 - **LeetCode:** 1/30 daily challenges  
-- **Portfolio Projects:** 0/15 built
+- **Portfolio Projects:** 1/15 built
 
 ## 📅 Daily Schedule
 - **6:30-7:00 AM:** FreeCodeCamp lessons
