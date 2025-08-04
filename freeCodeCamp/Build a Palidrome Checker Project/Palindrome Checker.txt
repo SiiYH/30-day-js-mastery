@@ -1,0 +1,117 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href = "styles.css"/>
+  </head>
+
+  <body>
+      <div class="container">
+    <input id = "text-input"/>
+    <button id = "check-btn">Check</button>
+    <div> <span id = "result"></span></div>
+    <div>
+    <script src= "script.js"></script>
+  </body>
+
+</html>
+
+** end of index.html **
+
+** start of script.js **
+
+function isPalidrome(str){
+  const cleaned = str.replace(/[^a-zA-Z0-9]/g, '').toLowerCase();
+  
+  return cleaned === cleaned.split('').reverse().join('');
+}
+
+const checkPalidrome = ()=>{
+const input = document.getElementById("text-input");
+const result = document.getElementById("result");
+
+const value = input.value.trim();
+  if (value === ''){
+    alert('Please input a value');
+  }
+  else if (isPalidrome(value)) {
+    result.textContent = `${value} is a palindrome`;
+  }else {
+    result.textContent = `${value} is not a palindrome`;
+  }
+}
+
+const button = document.getElementById("check-btn");
+
+button.addEventListener("click", checkPalidrome);
+
+** end of script.js **
+
+** start of styles.css **
+
+/* Reset some default styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right, #e0eafc, #cfdef3);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  background-color: white;
+  padding: 2rem 3rem;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  min-width: 300px;
+}
+
+input#text-input {
+  width: 100%;
+  padding: 10px 15px;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: 0.3s ease;
+}
+
+input#text-input:focus {
+  border-color: #415E72;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 119, 255, 0.2);
+}
+
+button#check-btn {
+  background-color: #415E72;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button#check-btn:hover {
+  background-color: #415E72;
+}
+
+#result {
+  display: block;
+  margin-top: 1.5rem;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+** end of styles.css **
+
