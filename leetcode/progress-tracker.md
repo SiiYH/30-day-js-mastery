@@ -22,7 +22,7 @@
 | Day | Date | Problem | Difficulty | Status | Time | Attempts | Pattern/Concept | Notes |
 |-----|------|---------|------------|--------|------|----------|-----------------|-------|
 | 1   |04Aug25|Merge Sorted Array|Easy|Solved|06:16 | 1        |Array/String     |Two Pointers|
-| 2   |      |         |            |        |      |          |                 |       |
+| 2   |05Aug25|Remove Element|Easy|Solved    |06:53 | 1        |Array/String     |one Pointer |
 | 3   |      |         |            |        |      |          |                 |       |
 | 4   |      |         |            |        |      |          |                 |       |
 | 5   |      |         |            |        |      |          |                 |       |
@@ -58,6 +58,7 @@
 
 ### Arrays & Strings
 - [x] Merge Sorted Array
+- [x] Remove Element
 - [ ] Two Sum
 - [ ] Valid Anagram
 - [ ] Group Anagrams
