@@ -25,6 +25,8 @@
 |    |04Aug25|Remove Element|Easy|Solved    |06:53 | 1        |Array/String     |one Pointer |
 | 2   |05Aug25|26|Easy        |Solved        |06:10 | 1        |Array/String     |Pointer     |
 |    |05Aug25|121      |Easy        |Solved   |06:30    |1         |Array/String|Comparison  |
+| 3   |      |         |            |        |      |          |                 |       |
+| 4   |      |         |            |        |      |          |                 |       |
 | 5   |      |         |            |        |      |          |                 |       |
 | 6   |      |         |            |        |      |          |                 |       |
 | 7   |      |         |            |        |      |          |                 |       |
