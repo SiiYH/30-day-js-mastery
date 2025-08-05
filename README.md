@@ -6,7 +6,7 @@ Master JavaScript through structured learning + algorithmic thinking + practical
 ## 📊 Progress Tracker (Day 1/30)
 - **FreeCodeCamp:** 0/180 lessons
 - **FreeCodeCamp:** 5/17 small part in one certificate project
-- **LeetCode:** 1/30 daily challenges  
+- **LeetCode:** 4/60 daily challenges  
 - **Portfolio Projects:** 1/15 built
 
 ## 📅 Daily Schedule
