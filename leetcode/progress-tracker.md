@@ -22,9 +22,9 @@
 | Day | Date | Problem | Difficulty | Status | Time | Attempts | Pattern/Concept | Notes |
 |-----|------|---------|------------|--------|------|----------|-----------------|-------|
 | 1   |04Aug25|Merge Sorted Array|Easy|Solved|06:16 | 1        |Array/String     |Two Pointers|
-| 2   |04Aug25|Remove Element|Easy|Solved    |06:53 | 1        |Array/String     |one Pointer |
-| 3   |05Aug25|26|Easy        |Solved        |06:10 | 1        |Array/String     |Pointer     |
-| 4   |05Aug25|121      |Easy        |Solved   |06:30    |1         |Array/String|Comparison  |
+|    |04Aug25|Remove Element|Easy|Solved    |06:53 | 1        |Array/String     |one Pointer |
+| 2   |05Aug25|26|Easy        |Solved        |06:10 | 1        |Array/String     |Pointer     |
+|    |05Aug25|121      |Easy        |Solved   |06:30    |1         |Array/String|Comparison  |
 | 5   |      |         |            |        |      |          |                 |       |
 | 6   |      |         |            |        |      |          |                 |       |
 | 7   |      |         |            |        |      |          |                 |       |
