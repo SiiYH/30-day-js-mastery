@@ -22,8 +22,8 @@
 | Day | Date | Problem | Difficulty | Status | Time | Attempts | Pattern/Concept | Notes |
 |-----|------|---------|------------|--------|------|----------|-----------------|-------|
 | 1   |04Aug25|Merge Sorted Array|Easy|Solved|06:16 | 1        |Array/String     |Two Pointers|
-| 2   |05Aug25|Remove Element|Easy|Solved    |06:53 | 1        |Array/String     |one Pointer |
-| 3   |      |         |            |        |      |          |                 |       |
+| 2   |04Aug25|Remove Element|Easy|Solved    |06:53 | 1        |Array/String     |one Pointer |
+| 3   |05Aug25|26|Easy        |Solved        |06:10 | 1        |Array/String     |Pointer     |
 | 4   |      |         |            |        |      |          |                 |       |
 | 5   |      |         |            |        |      |          |                 |       |
 | 6   |      |         |            |        |      |          |                 |       |
@@ -68,7 +68,7 @@
 - **Date completed**: 04 Aug 25
 
 ### Day 2: More Arrays (30 min)
-- [ ] **Remove Duplicates from Sorted Array** (Easy) - 10 min
+- [x] **Remove Duplicates from Sorted Array** (Easy) - 10 min
 - [ ] **Best Time to Buy and Sell Stock** (Easy) - 15 min
 - [ ] Quick review - 5 min
 - **Date completed**: ___________
