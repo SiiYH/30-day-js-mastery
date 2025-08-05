@@ -64,14 +64,14 @@
 ### Day 1: Array Basics (30 min)
 - [x] **Remove Element** (Easy) - 10 min
 - [x] **Merge Sorted Array** (Easy) - 15 min  
-- [ ] Quick review - 5 min
+- [x] Quick review - 5 min
 - **Date completed**: 04 Aug 25
 
 ### Day 2: More Arrays (30 min)
 - [x] **Remove Duplicates from Sorted Array** (Easy) - 10 min
 - [x] **Best Time to Buy and Sell Stock** (Easy) - 15 min
-- [ ] Quick review - 5 min
-- **Date completed**: ___________
+- [x] Quick review - 5 min
+- **Date completed**: 05 Aug 25
 
 ### Day 3: String Basics (30 min)
 - [ ] **Valid Palindrome** (Easy) - 10 min
