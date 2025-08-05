@@ -1,0 +1,38 @@
+{
+  "name": "02-todo-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp watch",
+    "build": "gulp build",
+    "clean": "gulp clean",
+    "serve": "gulp serve",
+    "watch": "gulp watch"
+
+  },
+  "keywords": [
+    "todo",
+    "gulp",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Sii Yew Hei",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "browser-sync": "^3.0.4",
+    "del": "^8.0.0",
+    "gulp": "^5.0.1",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^6.0.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.89.2"
+  },
+  "description": ""
+}
