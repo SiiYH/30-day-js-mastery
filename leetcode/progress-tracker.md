@@ -8,8 +8,8 @@
 ---
 
 ## 🎯 Statistics
-- **Total Solved**: 1/30
-- **Easy**: 1 ⭐
+- **Total Solved**: 4/60
+- **Easy**: 4 ⭐
 - **Medium**: 0 ⭐⭐
 - **Hard**: 0 ⭐⭐⭐
 - **Success Rate**: 100%
@@ -24,7 +24,7 @@
 | 1   |04Aug25|Merge Sorted Array|Easy|Solved|06:16 | 1        |Array/String     |Two Pointers|
 | 2   |04Aug25|Remove Element|Easy|Solved    |06:53 | 1        |Array/String     |one Pointer |
 | 3   |05Aug25|26|Easy        |Solved        |06:10 | 1        |Array/String     |Pointer     |
-| 4   |      |         |            |        |      |          |                 |       |
+| 4   |05Aug25|121      |Easy        |Solved   |06:30    |1         |Array/String|Comparison  |
 | 5   |      |         |            |        |      |          |                 |       |
 | 6   |      |         |            |        |      |          |                 |       |
 | 7   |      |         |            |        |      |          |                 |       |
@@ -69,7 +69,7 @@
 
 ### Day 2: More Arrays (30 min)
 - [x] **Remove Duplicates from Sorted Array** (Easy) - 10 min
-- [ ] **Best Time to Buy and Sell Stock** (Easy) - 15 min
+- [x] **Best Time to Buy and Sell Stock** (Easy) - 15 min
 - [ ] Quick review - 5 min
 - **Date completed**: ___________
 
