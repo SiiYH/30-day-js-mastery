@@ -28,7 +28,7 @@
 | 3   | 06Aug25 |125   |Easy        |Solved  |18:25 |1         |Two Pointer      |       |
 |     |06Aug25| 242    |Easy        |Solved  |19:00 |2         |Hashmap          |       |
 | 4   |07Aug25| 1      |Easy        |Solved  |07:10 |1         |Hashmap          |       |
-|     |      |         |            |        |      |          |                 |       |
+|     |07Aug25| 219    |Easy        |Solved  |07:30 |2         |Hashmap          |First Attemp: exceed time limit|
 | 5   |      |         |            |        |      |          |                 |       |
 | 6   |      |         |            |        |      |          |                 |       |
 | 7   |      |         |            |        |      |          |                 |       |
@@ -85,7 +85,7 @@
 
 ### Day 4: Hash Tables (30 min)
 - [x] **Two Sum** (Easy) - 15 min
-- [ ] **Contains Duplicate** (Easy) - 10 min
+- [x] **Contains Duplicate II** (Easy) - 10 min
 - [ ] Quick review - 5 min
 - **Date completed**: ___________
 
