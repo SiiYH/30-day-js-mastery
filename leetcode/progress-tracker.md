@@ -27,7 +27,8 @@
 |    |05Aug25|121      |Easy        |Solved   |06:30    |1         |Array/String|Comparison  |
 | 3   | 06Aug25 |125   |Easy        |Solved  |18:25 |1         |Two Pointer      |       |
 |     |06Aug25| 242    |Easy        |Solved  |19:00 |2         |Hashmap          |       |
-| 4   |      |         |            |        |      |          |                 |       |
+| 4   |07Aug25| 1      |Easy        |Solved  |07:10 |1         |Hashmap          |       |
+|     |      |         |            |        |      |          |                 |       |
 | 5   |      |         |            |        |      |          |                 |       |
 | 6   |      |         |            |        |      |          |                 |       |
 | 7   |      |         |            |        |      |          |                 |       |
@@ -83,7 +84,7 @@
 - **Date completed**: 06 Aug 25
 
 ### Day 4: Hash Tables (30 min)
-- [ ] **Two Sum** (Easy) - 15 min
+- [x] **Two Sum** (Easy) - 15 min
 - [ ] **Contains Duplicate** (Easy) - 10 min
 - [ ] Quick review - 5 min
 - **Date completed**: ___________
