@@ -25,7 +25,8 @@
 |    |04Aug25|Remove Element|Easy|Solved    |06:53 | 1        |Array/String     |one Pointer |
 | 2   |05Aug25|26|Easy        |Solved        |06:10 | 1        |Array/String     |Pointer     |
 |    |05Aug25|121      |Easy        |Solved   |06:30    |1         |Array/String|Comparison  |
-| 3   |      |         |            |        |      |          |                 |       |
+| 3   | 06Aug25 |125   |Easy        |Solved  |18:25 |1         |Two Pointer      |       |
+|     |06Aug25| 242    |Easy        |Solved  |19:00 |2         |Hashmap          |       |
 | 4   |      |         |            |        |      |          |                 |       |
 | 5   |      |         |            |        |      |          |                 |       |
 | 6   |      |         |            |        |      |          |                 |       |
@@ -76,10 +77,10 @@
 - **Date completed**: 05 Aug 25
 
 ### Day 3: String Basics (30 min)
-- [ ] **Valid Palindrome** (Easy) - 10 min
-- [ ] **Valid Anagram** (Easy) - 15 min
-- [ ] Quick review - 5 min
-- **Date completed**: ___________
+- [x] **Valid Palindrome** (Easy) - 10 min
+- [x] **Valid Anagram** (Easy) - 15 min
+- [x] Quick review - 5 min
+- **Date completed**: 06 Aug 25
 
 ### Day 4: Hash Tables (30 min)
 - [ ] **Two Sum** (Easy) - 15 min
@@ -251,7 +252,7 @@
 
 ## Progress Tracking
 
-**Week 1 Completed**: ⬜ (_1_/7 days)
+**Week 1 Completed**: ⬜ (_3_/7 days)
 **Week 2 Completed**: ⬜ (___/7 days)  
 **Week 3 Completed**: ⬜ (___/7 days)
 **Week 4 Completed**: ⬜ (___/8 days)
