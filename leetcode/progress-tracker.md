@@ -87,12 +87,12 @@
 - [x] **Two Sum** (Easy) - 15 min
 - [x] **Contains Duplicate II** (Easy) - 10 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 07 Aug 25
 
 ### Day 5: Medium Challenge (30 min)
-- [ ] **Product of Array Except Self** (Medium) - 25 min
+- [x] **Product of Array Except Self** (Medium) - 25 min
 - [ ] Quick mental review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 08 Aug 25
 
 ### Day 6: String Patterns (30 min)
 - [ ] **Longest Common Prefix** (Easy) - 10 min
