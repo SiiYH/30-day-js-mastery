@@ -29,8 +29,9 @@
 |     |06Aug25| 242    |Easy        |Solved  |19:00 |2         |Hashmap          |       |
 | 4   |07Aug25| 1      |Easy        |Solved  |07:10 |1         |Hashmap          |       |
 |     |07Aug25| 219    |Easy        |Solved  |07:30 |2         |Hashmap          |First Attemp: exceed time limit|
-| 5   |      |         |            |        |      |          |                 |       |
-| 6   |      |         |            |        |      |          |                 |       |
+| 5   |08Aug25|238      |Medium     |Solved  |07:30 |1         |Array/String     |       |
+| 6   |09Aug25|14       |Easy       |Solved  |06:30 |          |Array/String     |       |
+|     |09Aug25|28       |Easy       |Solved  |07:30 |1         |Array/String     |       |
 | 7   |      |         |            |        |      |          |                 |       |
 | 8   |      |         |            |        |      |          |                 |       |
 | 9   |      |         |            |        |      |          |                 |       |
