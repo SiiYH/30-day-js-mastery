@@ -95,15 +95,15 @@
 - **Date completed**: 08 Aug 25
 
 ### Day 6: String Patterns (30 min)
-- [ ] **Longest Common Prefix** (Easy) - 10 min
-- [ ] **First Occurrence in String** (Easy) - 15 min
+- [x] **Longest Common Prefix** (Easy) - 10 min
+- [x] **First Occurrence in String** (Easy) - 15 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 09 Aug 25
 
 ### Day 7: Review Day (30 min)
 - [ ] Retry hardest problem from the week - 20 min
 - [ ] Review all approaches learned - 10 min
-- **Date completed**: ___________
+- **Date completed**: 10 Aug 25
 
 ---
 
