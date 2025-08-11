@@ -1,0 +1,29 @@
+[Log] Object (main.js, line 9)
+
+current: {time: 1754882100, interval: 900, temperature_2m: 28.8, relative_humidity_2m: 74, apparent_temperature: 33.4, …}
+
+current_units: {time: "unixtime", interval: "seconds", temperature_2m: "°C", relative_humidity_2m: "%", apparent_temperature: "°C", …}
+
+daily: {time: Array, weather_code: Array, temperature_2m_max: Array, temperature_2m_min: Array, apparent_temperature_max: Array, …}
+
+daily_units: {time: "unixtime", weather_code: "wmo code", temperature_2m_max: "°C", temperature_2m_min: "°C", apparent_temperature_max: "°C", …}
+
+elevation: 23
+
+generationtime_ms: 0.1798868179321289
+
+hourly: {time: Array, temperature_2m: Array, apparent_temperature: Array, precipitation: Array, weather_code: Array, …}
+
+hourly_units: {time: "unixtime", temperature_2m: "°C", apparent_temperature: "°C", precipitation: "inch", weather_code: "wmo code", …}
+
+latitude: 3
+
+longitude: 101.625
+
+timezone: "Asia/Singapore"
+
+timezone_abbreviation: "GMT+8"
+
+utc_offset_seconds: 28800
+
+Object Prototype

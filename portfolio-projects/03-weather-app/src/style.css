@@ -9,6 +9,11 @@ body{
     font-family: sans-serif;
 }
 
+.blurred{
+    filter: blur(3px);
+    overflow: hidden;
+}
+
 .header{
     display: flex;
     align-items: center;
@@ -70,7 +75,7 @@ body{
 
 .day-section{
     display: grid;
-    grid-template-columns: repeat(auto-fit, 75px);
+    grid-template-columns: repeat(auto-fit, 100px);
     gap: .5rem;
     justify-content: center;
     padding: 1rem;
@@ -82,7 +87,7 @@ body{
     align-items: center;
     border: solid 2px hsl(200, 100%, 10%);
     border-radius: .25rem;
-    padding: .25rem;
+    padding: .8rem;
 }
 
 .day-card-day{

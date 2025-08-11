@@ -7,12 +7,12 @@
   <script defer type="module" src="/src/main.js"></script>
 </head>
 
-<body>
+<body class="blurred">
   <header class="header">
     <div class="header-left">
       <img src="/Icons/sun.svg" alt="" class="weather-icon large" data-current-icon>
       <div class="header-current-temp">
-        <span header-current-temp> 32</span>&deg;
+        <span data-current-temp> 10</span>&deg;
       </div>
     </div>
     <div class="header-right">
@@ -163,7 +163,7 @@
   </table>
   </div>
   
-  <template class="day-card-template">
+  <template id="day-card-template">
     <div class="day-card">
       <img data-icon class="weather-icon">
       <div class="day-card-day" data-date></div>
@@ -171,7 +171,7 @@
     </div>
   </template>
 
-  <template class="hour-row-template">
+  <template id="hour-row-template">
     <tr class="hour-row">
       <td>
         <div class="info-group">
