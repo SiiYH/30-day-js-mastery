@@ -32,8 +32,8 @@
 | 5   |08Aug25|238      |Medium     |Solved  |07:30 |1         |Array/String     |       |
 | 6   |09Aug25|14       |Easy       |Solved  |06:30 |          |Array/String     |       |
 |     |09Aug25|28       |Easy       |Solved  |07:30 |1         |Array/String     |       |
-| 7   |      |         |            |        |      |          |                 |       |
-| 8   |      |         |            |        |      |          |                 |       |
+| 7   |10Aug25|-       |            |        |      |          |                 |       |
+| 8   |11Aug25|11      |Medium      |Solved  |11:30 |1         |Two Pointers     |       |
 | 9   |      |         |            |        |      |          |                 |       |
 | 10  |      |         |            |        |      |          |                 |       |
 | 11  |      |         |            |        |      |          |                 |       |
