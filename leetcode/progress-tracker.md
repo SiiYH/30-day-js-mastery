@@ -117,9 +117,9 @@
 - **Date completed**: 11 Aug 25
 
 ### Day 9: Advanced Hash Tables (30 min)
-- [ ] **Group Anagrams** (Medium) - 25 min
-- [ ] Quick review - 5 min
-- **Date completed**: ___________
+- [x] **Group Anagrams** (Medium) - 25 min
+- [x] Quick review - 5 min
+- **Date completed**: 12 Aug 25
 
 ### Day 10: String Manipulation (30 min)
 - [ ] **Reverse Words in a String** (Medium) - 20 min
