@@ -312,8 +312,8 @@
 
 | Difficulty | Target | Completed | Remaining |
 |------------|--------|-----------|-----------|
-| Easy ⭐    | 15     | 2         | 12        |
-| Medium ⭐⭐ | 13     | 0         | 13        |
+| Easy ⭐    | 15     | 10        | 5        |
+| Medium ⭐⭐ | 13     | 2         | 11        |
 | Hard ⭐⭐⭐  | 2      | 0         | 2         |
 
 ---
@@ -379,5 +379,5 @@ For each problem, consider documenting:
 
 ---
 
-*Last Updated: [Date]*  
-*Challenge Start Date: [Your Start Date]*
+*Last Updated: [11 Aug 2025]*  
+*Challenge Start Date: [04 Aug 2025]*
