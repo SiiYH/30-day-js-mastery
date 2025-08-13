@@ -122,10 +122,10 @@
 - **Date completed**: 12 Aug 25
 
 ### Day 10: String Manipulation (30 min)
-- [ ] **Reverse Words in a String** (Medium) - 20 min
-- [ ] **Length of Last Word** (Easy) - 5 min
-- [ ] Quick review - 5 min
-- **Date completed**: ___________
+- [x] **Reverse Words in a String** (Medium) - 20 min
+- [x] **Length of Last Word** (Easy) - 5 min
+- [x] Quick review - 5 min
+- **Date completed**: 13 Aug 25
 
 ### Day 11: More Two Pointers (30 min)
 - [ ] **3Sum** (Medium) - 25 min
