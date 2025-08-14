@@ -128,9 +128,9 @@
 - **Date completed**: 13 Aug 25
 
 ### Day 11: More Two Pointers (30 min)
-- [ ] **3Sum** (Medium) - 25 min
+- [x] **3Sum** (Medium) - 25 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 14 Aug 25
 
 ### Day 12: Hash Table Patterns (30 min)
 - [ ] **Happy Number** (Easy) - 10 min
