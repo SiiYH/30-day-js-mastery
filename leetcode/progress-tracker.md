@@ -133,7 +133,7 @@
 - **Date completed**: 14 Aug 25
 
 ### Day 12: Hash Table Patterns (30 min)
-- [ ] **Happy Number** (Easy) - 10 min
+- [x] **Happy Number** (Easy) - 10 min
 - [ ] **Isomorphic Strings** (Easy) - 15 min
 - [ ] Quick review - 5 min
 - **Date completed**: ___________
