@@ -129,7 +129,7 @@
 
 ### Day 11: More Two Pointers (30 min)
 - [x] **3Sum** (Medium) - 25 min
-- [ ] Quick review - 5 min
+- [x] Quick review - 5 min
 - **Date completed**: 14 Aug 25
 
 ### Day 12: Hash Table Patterns (30 min)
