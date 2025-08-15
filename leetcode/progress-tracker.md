@@ -34,10 +34,12 @@
 |     |09Aug25|28       |Easy       |Solved  |07:30 |1         |Array/String     |       |
 | 7   |10Aug25|-       |            |        |      |          |                 |       |
 | 8   |11Aug25|11      |Medium      |Solved  |11:30 |1         |Two Pointers     |       |
-| 9   |      |         |            |        |      |          |                 |       |
-| 10  |      |         |            |        |      |          |                 |       |
-| 11  |      |         |            |        |      |          |                 |       |
-| 12  |      |         |            |        |      |          |                 |       |
+| 9   |12Aug25|49       |Medium       |Solved |11:31 |1        |Hashmap          |       |
+| 10  |13Aug25|151      |Medium      |Solved |      |1         |Array/String     |       |
+| 10  |13Aug25|58       |Easy        |Solved |      |1         |Array/String     |       |
+| 11  |14Aug25|15      |Medium      |Solved|      |1          |Two Pointers     |       |
+| 12  |15Aug25|202      |Easy      | Solved|      | 1         |Hashmap     |       |
+| 12  |16Aug25|205      |Easy        |Solved  |      |  1       |Hashmap         |       |
 | 13  |      |         |            |        |      |          |                 |       |
 | 14  |      |         |            |        |      |          |                 |       |
 | 15  |      |         |            |        |      |          |                 |       |
@@ -134,9 +136,9 @@
 
 ### Day 12: Hash Table Patterns (30 min)
 - [x] **Happy Number** (Easy) - 10 min
-- [ ] **Isomorphic Strings** (Easy) - 15 min
+- [x] **Isomorphic Strings** (Easy) - 15 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 15 Aug 25
 
 ### Day 13: Arrays + Hash Tables (30 min)
 - [ ] **Majority Element** (Easy) - 10 min
