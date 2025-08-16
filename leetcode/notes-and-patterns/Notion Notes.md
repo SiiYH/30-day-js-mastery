@@ -1,0 +1,1 @@
+I’ve collected some notes on the [Notion Page](https://ablaze-trick-dd1.notion.site/ebd/25159ff9da1f8019b90bec4af10a8ad7)
