@@ -39,8 +39,8 @@
 | 10  |13Aug25|58       |Easy        |Solved |      |1         |Array/String     |       |
 | 11  |14Aug25|15      |Medium      |Solved|      |1          |Two Pointers     |       |
 | 12  |15Aug25|202      |Easy      | Solved|      | 1         |Hashmap     |       |
-| 12  |16Aug25|205      |Easy        |Solved  |      |  1       |Hashmap         |       |
-| 13  |      |         |            |        |      |          |                 |       |
+| 12  |15Aug25|205      |Easy        |Solved  |      |  1       |Hashmap         |       |
+| 13  |16Aug25|169      |Easy        |Solved  |8:09  |1         |                 |       |
 | 14  |      |         |            |        |      |          |                 |       |
 | 15  |      |         |            |        |      |          |                 |       |
 | 16  |      |         |            |        |      |          |                 |       |
@@ -141,7 +141,7 @@
 - **Date completed**: 15 Aug 25
 
 ### Day 13: Arrays + Hash Tables (30 min)
-- [ ] **Majority Element** (Easy) - 10 min
+- [x] **Majority Element** (Easy) - 10 min
 - [ ] **Gas Station** (Medium) - 15 min
 - [ ] Quick review - 5 min
 - **Date completed**: ___________
