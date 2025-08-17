@@ -142,9 +142,9 @@
 
 ### Day 13: Arrays + Hash Tables (30 min)
 - [x] **Majority Element** (Easy) - 10 min
-- [ ] **Gas Station** (Medium) - 15 min
+- [x] **Gas Station** (Medium) - 15 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 16 Aug 25
 
 ### Day 14: Week 2 Review (30 min)
 - [ ] Pick hardest unsolved problem - 25 min
