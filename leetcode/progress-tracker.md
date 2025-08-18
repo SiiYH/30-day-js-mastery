@@ -156,7 +156,7 @@
 ## Week 3: Linked Lists & Stacks/Queues
 
 ### Day 15: Linked List Basics (30 min)
-- [ ] **Reverse Linked List II** (Medium) - 20 min
+- [x] **Reverse Linked List II** (Medium) - 20 min
 - [x] **Merge Two Sorted Lists** (Easy) - 10 min
 - [ ] Quick review - 5 min
 - **Date completed**: ___________
