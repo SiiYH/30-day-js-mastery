@@ -149,7 +149,7 @@
 ### Day 14: Week 2 Review (30 min)
 - [ ] Pick hardest unsolved problem - 25 min
 - [ ] Quick pattern review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 17 Aug 25
 
 ---
 
@@ -159,13 +159,13 @@
 - [x] **Reverse Linked List II** (Medium) - 20 min
 - [x] **Merge Two Sorted Lists** (Easy) - 10 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 18 Aug 25
 
 ### Day 16: Advanced Linked Lists (30 min)
 - [ ] **Remove Nth Node From End** (Medium) - 20 min
 - [ ] **Linked List Cycle** (Easy) - 5 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 19 Aug 25
 
 ### Day 17: Stack Fundamentals (30 min)
 - [ ] **Valid Parentheses** (Easy) - 10 min
