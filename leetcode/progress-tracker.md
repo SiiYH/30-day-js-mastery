@@ -157,7 +157,7 @@
 
 ### Day 15: Linked List Basics (30 min)
 - [ ] **Reverse Linked List II** (Medium) - 20 min
-- [ ] **Merge Two Sorted Lists** (Easy) - 10 min
+- [x] **Merge Two Sorted Lists** (Easy) - 10 min
 - [ ] Quick review - 5 min
 - **Date completed**: ___________
 
