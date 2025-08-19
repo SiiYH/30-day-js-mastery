@@ -163,7 +163,7 @@
 
 ### Day 16: Advanced Linked Lists (30 min)
 - [ ] **Remove Nth Node From End** (Medium) - 20 min
-- [ ] **Linked List Cycle** (Easy) - 5 min
+- [x] **Linked List Cycle** (Easy) - 5 min
 - [ ] Quick review - 5 min
 - **Date completed**: 19 Aug 25
 
