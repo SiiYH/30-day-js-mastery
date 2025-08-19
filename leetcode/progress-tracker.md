@@ -44,7 +44,7 @@
 | 14  |18Aug25|88       |Easy        |Solved   |10:00 |1         |ListNode         |       |
 | 15  |18Aug25|92       |Medium      |Solved  |20:00  |1         |ListNode         |       |
 | 16  |19Aug25|141      |Easy        |Solved |7.11  |1         |ListNode  |Floyd’s Cycle Detection Algorithm (slow and fast pointers)|
-| 16  |19Aug25|         |            |        |      |          |                 |       |
+| 16  |19Aug25|19      |Medium      |Solved  |07:37 |1         |ListNode         |''     |
 | 17  |      |         |            |        |      |          |                 |       |
 | 18  |      |         |            |        |      |          |                 |       |
 | 19  |      |         |            |        |      |          |                 |       |
