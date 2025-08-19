@@ -41,9 +41,10 @@
 | 12  |15Aug25|202      |Easy      | Solved|      | 1         |Hashmap     |       |
 | 12  |15Aug25|205      |Easy        |Solved  |      |  1       |Hashmap         |       |
 | 13  |16Aug25|169      |Easy        |Solved  |8:09  |1         |                 |       |
-| 14  |      |         |            |        |      |          |                 |       |
-| 15  |      |         |            |        |      |          |                 |       |
-| 16  |      |         |            |        |      |          |                 |       |
+| 14  |18Aug25|88       |Easy        |Solved   |10:00 |1         |ListNode         |       |
+| 15  |18Aug25|92       |Medium      |Solved  |20:00  |1         |ListNode         |       |
+| 16  |19Aug25|141      |Easy        |Solved |7.11  |1         |ListNode  |Floyd’s Cycle Detection Algorithm (slow and fast pointers)|
+| 16  |19Aug25|         |            |        |      |          |                 |       |
 | 17  |      |         |            |        |      |          |                 |       |
 | 18  |      |         |            |        |      |          |                 |       |
 | 19  |      |         |            |        |      |          |                 |       |
