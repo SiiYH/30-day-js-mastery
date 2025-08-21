@@ -169,7 +169,7 @@
 - **Date completed**: 19 Aug 25
 
 ### Day 17: Stack Fundamentals (30 min)
-- [ ] **Valid Parentheses** (Easy) - 10 min
+- [x] **Valid Parentheses** (Easy) - 10 min
 - [ ] **Min Stack** (Medium) - 15 min
 - [ ] Quick review - 5 min
 - **Date completed**: ___________
