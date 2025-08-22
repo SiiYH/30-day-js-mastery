@@ -172,7 +172,7 @@
 - [x] **Valid Parentheses** (Easy) - 10 min
 - [ ] **Min Stack** (Medium) - 15 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 20 Aug 25
 
 ### Day 18: Stack Applications (30 min)
 - [ ] **Evaluate Reverse Polish Notation** (Medium) - 20 min
