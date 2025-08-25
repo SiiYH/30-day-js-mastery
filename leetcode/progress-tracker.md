@@ -175,16 +175,16 @@
 - **Date completed**: 20 Aug 25
 
 ### Day 18: Stack Applications (30 min)
-- [ ] **Evaluate Reverse Polish Notation** (Medium) - 20 min
-- [ ] **Simplify Path** (Medium) - 5 min (if time)
+- [x] **Evaluate Reverse Polish Notation** (Medium) - 20 min
+- [x] **Simplify Path** (Medium) - 5 min (if time)
 - [ ] Quick review - 5 min
 - **Date completed**: 21 Aug 25
 
 ### Day 19: Linked List Manipulation (30 min)
-- [ ] **Add Two Numbers** (Medium) - 20 min
+- [x] **Add Two Numbers** (Medium) - 20 min
 - [ ] **Remove Duplicates from Sorted List** (Easy) - 5 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 25 Aug 25
 
 ### Day 20: Queue & Deque (30 min)
 - [ ] **Sliding Window Maximum** (Hard) - 25 min
