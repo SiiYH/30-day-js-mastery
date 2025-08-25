@@ -182,7 +182,7 @@
 
 ### Day 19: Linked List Manipulation (30 min)
 - [x] **Add Two Numbers** (Medium) - 20 min
-- [ ] **Remove Duplicates from Sorted List** (Easy) - 5 min
+- [x] **Remove Duplicates from Sorted List** (Easy) - 5 min
 - [ ] Quick review - 5 min
 - **Date completed**: 25 Aug 25
 
