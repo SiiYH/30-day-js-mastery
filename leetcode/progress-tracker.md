@@ -187,7 +187,7 @@
 - **Date completed**: 25 Aug 25
 
 ### Day 20: Queue & Deque (30 min)
-- [ ] **Sliding Window Maximum** (Hard) - 25 min
+- [x] **Sliding Window Maximum - Minimum Window Substring** (Hard) - 25 min
 - [ ] Quick review - 5 min
 - **Date completed**: ___________
 
