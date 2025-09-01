@@ -189,12 +189,12 @@
 ### Day 20: Queue & Deque (30 min)
 - [x] **Sliding Window Maximum - Minimum Window Substring** (Hard) - 25 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 26 Aug 25
 
 ### Day 21: Week 3 Review (30 min)
 - [ ] Retry most challenging problem - 25 min
 - [ ] Pattern review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 02 Sept 25
 
 ---
 
