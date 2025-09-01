@@ -205,7 +205,7 @@
 - [ ] **Same Tree** (Easy) - 10 min
 - [ ] **Invert Binary Tree** (Easy) - 5 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 02 Sept 25
 
 ### Day 23: Tree Traversal (30 min)
 - [ ] **Binary Tree Inorder Traversal** (Easy) - 15 min
