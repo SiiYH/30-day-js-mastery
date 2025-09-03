@@ -202,8 +202,8 @@
 
 ### Day 22: Binary Tree Basics (30 min)
 - [x] **Maximum Depth of Binary Tree** (Easy) - 10 min
-- [ ] **Same Tree** (Easy) - 10 min
-- [ ] **Invert Binary Tree** (Easy) - 5 min
+- [x] **Same Tree** (Easy) - 10 min
+- [x] **Invert Binary Tree** (Easy) - 5 min
 - [ ] Quick review - 5 min
 - **Date completed**: 02 Sept 25
 
