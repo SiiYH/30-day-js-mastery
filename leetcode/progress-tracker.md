@@ -204,7 +204,7 @@
 - [x] **Maximum Depth of Binary Tree** (Easy) - 10 min
 - [x] **Same Tree** (Easy) - 10 min
 - [x] **Invert Binary Tree** (Easy) - 5 min
-- [ ] Quick review - 5 min
+- [x] Quick review - 5 min
 - **Date completed**: 02 Sept 25, 04 Sept 25
 
 ### Day 23: Tree Traversal (30 min)
