@@ -208,10 +208,11 @@
 - **Date completed**: 02 Sept 25, 04 Sept 25
 
 ### Day 23: Tree Traversal (30 min)
-- [ ] **Binary Tree Inorder Traversal** (Easy) - 15 min
-- [ ] **Path Sum** (Easy) - 10 min
+<!-- - [ ] **Binary Tree Inorder Traversal** (Easy) - 15 min -->
+- [ ] **Construct Binary Tree from Inorder and Postorder Traversal** (Medium) - 15 min
+- [x] **Path Sum** (Easy) - 10 min
 - [ ] Quick review - 5 min
-- **Date completed**: 02 Sept 25
+- **Date completed**: 08 Sept 25
 
 ### Day 24: Binary Search (30 min)
 - [ ] **Binary Search** (Easy) - 10 min
