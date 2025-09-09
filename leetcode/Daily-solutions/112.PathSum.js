@@ -35,3 +35,25 @@ var hasPathSumBFS = function(root, targetSum) {
 
     return false;
 }
+
+var hasPathSumDFS = function(root, targetSum) {
+
+    if (root === null) return false;
+
+    let stack = [[root, root.val]];
+
+    while(stack.length > 0){
+        let [node, sum] = stack.pop();
+
+        if(!node.right && !node.left && targetSum === sum) return true;
+
+        if(node.right){
+            stack.push([node.right, sum + node.right.val]);
+        }
+
+        if(node.left){
+            stack.push([node.left, sum + node.left.val]);
+        }
+    }
+    return false;
+};
