@@ -213,7 +213,7 @@
 - [x] **Path Sum** (Easy) - 10 min
 - [ ] Quick review - 5 min
 - **Date completed**: 08 Sept 25
-
+- 09 to 11 Sept 2025 at hometown to settle personal matters
 ### Day 24: Binary Search (30 min)
 - [ ] **Binary Search** (Easy) - 10 min
 - [ ] **Search Insert Position** (Easy) - 10 min
