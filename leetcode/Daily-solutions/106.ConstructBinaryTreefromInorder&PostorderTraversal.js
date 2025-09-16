@@ -11,7 +11,7 @@
  * @param {number[]} postorder
  * @return {TreeNode}
  */
-var buildTree = function(inorder, postorder) {
+var buildTreeRecursive = function(inorder, postorder) {
     if(!inorder.length || !postorder.length) return null;
 
     const rootVal = postorder.pop();
