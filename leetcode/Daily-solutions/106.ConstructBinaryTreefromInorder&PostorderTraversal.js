@@ -30,3 +30,30 @@ var buildTreeRecursive = function(inorder, postorder) {
 
     return root;
 };
+
+var buildTreeMap = function (inorder, postorder){
+    //performance issue
+    let indexMap = {};
+    for(let i = 0; i < inorder.length; i++){
+        indexMap[[inorder[i]]] = i;
+    }
+
+    let postIndex = postorder.length - 1;
+
+    const helper = (inLeft, inRight)=>{
+        if (inLeft > inRight) return null;
+
+        const rootVal = postorder[postIndex--];
+        const root = new TreeNode(rootVal);
+
+        const index = indexMap[rootVal];
+
+        root.right = helper(index+1, inRight);
+        root.left = helper(inLeft, index-1);
+        
+        return root;
+    }
+
+    return helper(0, inorder.length-1);
+
+}
