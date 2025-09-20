@@ -215,7 +215,7 @@
 - **Date completed**: 08 Sept 25
 - 09 to 11 Sept 2025 at hometown to settle personal matters, 12 Sept - 20 Sept just settle down, affecting progress
 ### Day 24: Binary Search (30 min)
-- [ ] **Search a 2D Matrix** (Easy) - 10 min
+- [ ] **Search a 2D Matrix** (Medium) - 10 min
 - [ ] **Search Insert Position** (Easy) - 10 min
 - [ ] **Find First and Last Position** (Medium) - 5 min
 - [ ] Quick review - 5 min
