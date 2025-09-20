@@ -211,7 +211,7 @@
 <!-- - [ ] **Binary Tree Inorder Traversal** (Easy) - 15 min -->
 - [x] **Construct Binary Tree from Inorder and Postorder Traversal** (Medium) - 15 min
 - [x] **Path Sum** (Easy) - 10 min
-- [ ] Quick review - 5 min
+- [x] Quick review - 5 min
 - **Date completed**: 08 Sept 25
 - 09 to 11 Sept 2025 at hometown to settle personal matters, 12 Sept - 20 Sept just settle down, affecting progress
 ### Day 24: Binary Search (30 min)
