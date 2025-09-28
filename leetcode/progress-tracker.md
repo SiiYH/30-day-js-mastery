@@ -217,9 +217,10 @@
 ### Day 24: Binary Search (30 min)
 - [x] **Search a 2D Matrix** (Medium) - 10 min
 - [x] **Search Insert Position** (Easy) - 10 min
-- [ ] **Find First and Last Position** (Medium) - 5 min
+- [x] **Find First and Last Position** (Medium) - 5 min
 - [ ] Quick review - 5 min
-- **Date completed**: ___________
+- **Date completed**: 29 Sept 25
+- The delay was due to not feeling well, as I’ve caught the flu. Malaysia is currently in flu season.
 
 ### Day 25: Tree Construction (30 min)
 - [ ] **Construct Binary Tree from Preorder and Inorder** (Medium) - 25 min
